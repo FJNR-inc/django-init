@@ -1,6 +1,6 @@
 Django==2.2.12
 djangorestframework==3.11.0
-django-allauth==0.40
+django-allauth==0.44.0
 django-rest_auth==0.9.5
 django-dry-rest-permissions==1.1.0
 django-simple-history==2.10.0
