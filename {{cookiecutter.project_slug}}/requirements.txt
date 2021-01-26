@@ -4,7 +4,7 @@ django-allauth==0.40
 django-rest_auth==0.9.5
 django-dry-rest-permissions==1.1.0
 django-simple-history==2.10.0
-django-cors-headers==3.2.1
+django-cors-headers==3.7.0
 django-anymail==7.1.0
 django-filter==2.2.0
 coreapi==2.3.3
